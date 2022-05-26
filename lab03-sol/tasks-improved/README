@@ -1,0 +1,53 @@
+Gigel Gigelinho // mereu te semnezi
+3XYCA           // pui si grupa
+
+
+                                        Lab03 - Functii
+
+    Aceasta este README-ului atasat de rezolvarea laboratorului, care poate fi
+folosit si ca model de redactare pentru temele de casa / proiect.
+
+    Implementarea aceasta a presupun rezolvarea fiecarui
+task din laborator.
+    blah blah blah
+
+    Ierarhia proiectului este urmatoarea:
+    - util.h/util.c: contin functii care fac diferite
+        prelucrari pe numere, verifica daca un numar are o proprietare sau
+        cauta un numar cu o anumita proprietate
+
+    - tester.h/tester.c: pentru a testa am facut cateva
+        functii in care folosesc assert
+
+    - main.c: in care doar apelez functia test_all, care pentru fiecare
+        functie din util.h va testa daca comportamentul este cel dorit
+
+    Algoritmi folositi
+    blah blah blah
+
+    Probleme de implementare / dificultati
+    blah blah blah
+
+    Bonus: (daca ai facut)
+    blah blah blah
+
+    Ex. Coding style: am folosit scriptul X de pe site-ul Y ca sa imi verific
+coding style-ul.
+    Am reparat erorile relevante aratate de script.
+
+
+    In functie de tema, README-ul poate/ar trebui sa fie
+de la 30 de linii pana la 100-150?
+
+    Ex. probabil pentru tema 1 PC o sa fie ceva super scurt, pentru tema 3 SD -
+ultima din anul 1 - o sa fie ceva de 100 de linii pentru ca e o tema lunga in
+care ai avut multe decizii de luat si trebuie sa le explici pe toate.
+    De asemenea, conteaza si cat de clean este codul tau
+(coding style + comentarii). Daca ai foarte multe comentarii si se intelege
+perfect ce ai facut citind codul, poti rezuma pe scurt in 30-50 de linii si
+sa specifici in README doar ideile/alegerile.
+
+    Observati ca am incercat sa pastrez lungimea liniei de 80 de caracteresi
+in README!
+    Numele este mereu "README" (fara extensie), decat daca nu se spune altceva
+in enunt sau in regulament.
